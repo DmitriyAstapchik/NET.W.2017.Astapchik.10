@@ -17,4 +17,5 @@ https://github.com/DmitriyAstapchik/NET.W.2017.Astapchik.08/tree/master/BookSyst
 https://github.com/DmitriyAstapchik/NET.W.2017.Astapchik.04/blob/master/Homework/GCDCalculator.cs
 5. В класс с алгоритмом сортировки не прямоугольной матрицы, принимающим как компаратор интерфейс IComparer<int[]> добавить метод, принимающий как параметр делегат-компаратор, инкапсулирующий логику сравнения строк матрицы. Протестировать работу разработанного метода на примере сортировки матрицы, используя прежние критерии сравнения. Класс реализовать двумя способами, «замкнув» в первом варианте реализацию метода сортировки с делегатом на метод с интерфейсом, во втором – наоборот.
 https://github.com/DmitriyAstapchik/NET.W.2017.Astapchik.05/blob/master/Homework/BubbleSorter.cs
+https://github.com/DmitriyAstapchik/NET.W.2017.Astapchik.05/blob/master/Homework/BubbleSorter2.cs
 https://github.com/DmitriyAstapchik/NET.W.2017.Astapchik.05/blob/master/Homework.Tests/BubbleSorterTests.cs
